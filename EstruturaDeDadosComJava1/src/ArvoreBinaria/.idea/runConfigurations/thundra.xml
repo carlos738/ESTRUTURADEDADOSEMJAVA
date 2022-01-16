@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration name="thundra" type="THUNDRA_DEBUG_RUN_CONFIGURATION" factoryName="Thundra Debugger Configuration Factory" singleton="false">
+    <module name="ArvoreBinaria" />
+    <option name="brokerHost" value="debug.thundra.io" />
+    <option name="brokerPort" value="443" />
+    <option name="sessionName" value="default" />
+    <option name="authToken" value="" />
+    <RunnerSettings RunnerId="Debug">
+      <option name="DEBUG_PORT" value="64370" />
+      <option name="LOCAL" value="false" />
+    </RunnerSettings>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
